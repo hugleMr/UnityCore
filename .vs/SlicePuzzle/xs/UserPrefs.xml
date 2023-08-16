@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{EA8413D2-0492-26AD-98BB-A0D3872BBAEC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CandyMatch3Kit/Scripts/Game/UI/RewardedAdButton.cs">
+    <Files>
+      <File FileName="Assets/SlicePuzzle/Scripts/Game/Common/GameManager.cs" Line="19" Column="28" />
+      <File FileName="Assets/SlicePuzzle/Scripts/Game/Common/IapManager.cs" Line="5" Column="28" />
+      <File FileName="Assets/SlicePuzzle/Scripts/Game/Popup/BuyCoinsPopup.cs" Line="29" Column="1" />
+      <File FileName="Assets/CandyMatch3Kit/Scripts/Game/UI/RewardedAdButton.cs" Line="25" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SlicePuzzle" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CandyMatch3Kit" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Core" expanded="True" />
+                  <Node name="Game" expanded="True">
+                    <Node name="UI" expanded="True">
+                      <Node name="RewardedAdButton.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="SlicePuzzle" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Core" expanded="True" />
+                  <Node name="Game" expanded="True">
+                    <Node name="Common" expanded="True" />
+                    <Node name="Popup" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4ac34f92-053c-48a7-847a-5d37453bf7bd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
