@@ -112,8 +112,8 @@
     <Compile Include="Assets\LeanTween\Examples\Scripts\PathBezier.cs" />
     <Compile Include="Assets\FullSerializer\Testing\RuntimeTests\Providers\CustomListProvider.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\PathSpline.cs" />
-    <Compile Include="Assets\SlicePuzzle\Scripts\Game\Common\GameManager.cs" />
     <Compile Include="Assets\FullSerializer\Source\Converters\Unity\Bounds_DirectConverter.cs" />
+    <Compile Include="Assets\SlicePuzzle\Scripts\Game\Common\GameManager.cs" />
     <Compile Include="Assets\FullSerializer\Source\fsConfig.cs" />
     <Compile Include="Assets\FullSerializer\Source\fsJsonParser.cs" />
     <Compile Include="Assets\FullSerializer\Source\Converters\Unity\UnityEvent_Converter.cs" />
@@ -192,15 +192,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LeanTween\ReadMe.txt" />
-    <None Include="Assets\CandyMatch3Kit\Fonts\veleka\OFL-FAQ.txt" />
+    <None Include="Assets\SlicePuzzle\Fonts\veleka\OFL-FAQ.txt" />
     <None Include="Assets\LeanTween\License.txt" />
-    <None Include="Assets\CandyMatch3Kit\Fonts\lily-script-one\OFL.txt" />
-    <None Include="Assets\CandyMatch3Kit\Fonts\veleka\README.txt" />
+    <None Include="Assets\SlicePuzzle\Fonts\lily-script-one\OFL.txt" />
+    <None Include="Assets\SlicePuzzle\Fonts\veleka\README.txt" />
     <None Include="Assets\SlicePuzzle\Graphic\diamond\3x\diamond_3x.atlas.txt" />
-    <None Include="Assets\CandyMatch3Kit\Fonts\oleo-script-swash-caps\OFL.txt" />
+    <None Include="Assets\SlicePuzzle\Fonts\oleo-script-swash-caps\OFL.txt" />
     <None Include="Assets\SlicePuzzle\Graphic\diamond\2x\diamond_2x.atlas.txt" />
-    <None Include="Assets\CandyMatch3Kit\Shaders\Overlay.shader" />
-    <None Include="Assets\CandyMatch3Kit\Fonts\veleka\OFL.txt" />
+    <None Include="Assets\SlicePuzzle\Fonts\veleka\OFL.txt" />
     <None Include="Assets\LeanTween\Examples\Archived\2dUnlitWithFade.shader" />
     <None Include="Assets\SlicePuzzle\Graphic\diamond\4x\diamond_4x.atlas.txt" />
     <None Include="Assets\SlicePuzzle\Graphic\diamond\1x\diamond_1x.atlas.txt" />
